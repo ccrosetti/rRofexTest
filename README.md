@@ -1,4 +1,4 @@
-# rRofexTest1
+# rRofexTest
 Test de compatibilidad con R 4.4.2 de la biblioteca R rRofex de MatbaRofex, que se encuentra disponible en:
 https://github.com/matbarofex/rRofex
 
